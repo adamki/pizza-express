@@ -1,0 +1,25 @@
+{
+  "name": "pizza-express",
+  "version": "1.0.0",
+  "description": "a pizza express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamki/pizza-express.git"
+  },
+  "keywords": [
+    "npm",
+    "pizza",
+    "express",
+    "javascript"
+  ],
+  "author": "adamki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamki/pizza-express/issues"
+  },
+  "homepage": "https://github.com/adamki/pizza-express#readme"
+}
